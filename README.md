@@ -76,6 +76,7 @@ I'm a passionate Computer Science student with expertise in **web development, c
 
 ---
 
+<!--
 ## 🔥 Projects
 
 ### **Multi-Layered Cloud-Native Encryption System**  
@@ -96,7 +97,8 @@ I'm a passionate Computer Science student with expertise in **web development, c
 🔗 [GitHub Link](#) *(Link your repo here)*  
 - Movie ticket booking system with **interactive seat selection** and POV viewing.  
 
----
+-
+-->
 
 ## 🏆 Achievements & Extracurriculars
 
