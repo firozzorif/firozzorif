@@ -123,7 +123,7 @@ I'm always open to collaborations and new opportunities. Feel free to reach out!
 
 ---
 
-### 🔹 **Tech Stack Icons** *(Optional for visual appeal)*  
+### 🔹 **Tech Stack Icons** 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
