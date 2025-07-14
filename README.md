@@ -80,10 +80,11 @@ B.E. in Computer Science & Engineering (CGPA: 8.08)
 
 ## 💼 Experience
 
-### 🐍 **Appzera | Python Developer Intern**
-**📅 March 2025 - June 2025**
-- Developed a **chatbot** using Python, PyQt (UI), and DeepSeek (NLP)
-- Enhanced conversational flows and performance optimization
+### 💼 **Appzera | Intern**  
+**📅 March 2025 - June 2025**  
+- Developed a **chatbot** using Python, PyQt (UI), and DeepSeek (NLP)  
+- Enhanced conversational flows and optimized performance
+
 
 ### ⚙️ **Appteknow | DevOps Intern**
 **📅 August 2024 - September 2024**
