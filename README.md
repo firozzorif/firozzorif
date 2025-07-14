@@ -142,21 +142,7 @@ I'm a passionate Computer Science student with expertise in **web development, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=firozzorif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=firozzorif&theme=radical&hide_border=true" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozzorif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔥 GitHub Activity Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=firozzorif&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </div>
 
