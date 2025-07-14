@@ -1,12 +1,14 @@
+
 <div align="center">
 
 # 👋 Hello, I'm Firoz Khan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Specialist" alt="Typing SVG" />
 
+**Computer Science Student | Full-Stack Developer | DevOps Enthusiast**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bengaluru,+India-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-hello.firozkhan@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  📍 Bengaluru, India | 📧 hello.firozkhan@outlook.com
 </p>
 
 <p align="center">
@@ -26,70 +28,49 @@
 
 I'm a passionate Computer Science student with expertise in **web development, cloud computing, and DevOps**. I love building scalable applications and solving real-world problems with technology. My goal is to contribute to innovative projects while continuously expanding my skill set.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
-### **💻 Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **🔧 Programming Languages**
+### 🔧 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **🗄️ Database Management**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+### 🗄️ Database Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-### **☁️ Cloud & DevOps**
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td>
+### 🏫 BNM Institute of Technology
+**📅 2022 - Present**  
+B.E. in Computer Science & Engineering (CGPA: 8.08)
 
-**🏫 BNM Institute of Technology**
-- 📅 2022 - Present
-- 🎓 B.E. in Computer Science & Engineering
-- 📊 CGPA: 8.08
+### 🏫 Kendriya Vidyalaya No.1 Jalahalli (West)
+**📅 2022**  
+12th Grade - Science (77.6%)
 
-</td>
-<td>
-
-**🏫 Kendriya Vidyalaya No.1 Jalahalli (West)**
-- 📅 2022
-- 📚 12th Grade - Science
-- 📊 77.6%
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🏫 Kendriya Vidyalaya No.1 AFS Bhui**
-- 📅 2020
-- 📚 10th Grade
-- 📊 81.8%
-
-</td>
-</tr>
-</table>
+### 🏫 Kendriya Vidyalaya No.1 AFS Bhui
+**📅 2020**  
+10th Grade (81.8%)
 
 ---
 
@@ -114,27 +95,17 @@ I'm a passionate Computer Science student with expertise in **web development, c
 
 ## 📜 Certifications
 
-<div align="center">
-
-| Certification | Provider |
-|---------------|----------|
-| 🔴 **Red Hat System Administration** | Red Hat |
-| 📱 **Samsung Prism Python Programming** | Samsung Innovation Campus |
-| ☁️ **Google Cloud Study Jam** | Google Developer Student Clubs |
-| 🤖 **Prompt Engineering** | Udemy |
-
-</div>
+🏆 **Red Hat System Administration** - Red Hat  
+🏆 **Samsung Prism Python Programming** - Samsung Innovation Campus  
+🏆 **Google Cloud Study Jam** - Google Developer Student Clubs  
+🏆 **Prompt Engineering** - Udemy
 
 ---
 
 ## 🏆 Achievements & Extracurriculars
 
-<div align="center">
-
 🥇 **Codethon Participant** - BMSCE Phase Shift 2024  
 🚀 **Hackathon Participant** - SIH 2024
-
-</div>
 
 ---
 
@@ -142,9 +113,26 @@ I'm a passionate Computer Science student with expertise in **web development, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozzorif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=firozzorif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=firozzorif&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozzorif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
 
 </div>
+
+---
+
+## 🔹 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -166,16 +154,8 @@ I'm always open to collaborations and new opportunities. Feel free to reach out!
   </a>
 </p>
 
----
-
 ### ⭐ **Thanks for visiting my profile!** ⭐
 
 <img src="https://komarev.com/ghpvc/?username=firozzorif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
