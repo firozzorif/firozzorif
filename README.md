@@ -63,21 +63,6 @@ I'm a passionate Computer Science student with expertise in **web development, c
 
 ---
 
-## 🎓 Education
-
-### 🏫 BNM Institute of Technology
-**📅 2022 - Present**  
-B.E. in Computer Science & Engineering (CGPA: 8.08)
-
-### 🏫 Kendriya Vidyalaya No.1 Jalahalli (West)
-**📅 2022**  
-12th Grade - Science (77.6%)
-
-### 🏫 Kendriya Vidyalaya No.1 AFS Bhui
-**📅 2020**  
-10th Grade (81.8%)
-
----
 
 ## 💼 Experience
 
@@ -98,6 +83,25 @@ B.E. in Computer Science & Engineering (CGPA: 8.08)
 - Improved **user experience** and front-end responsiveness
 
 ---
+
+
+## 🎓 Education
+
+### 🏫 BNM Institute of Technology
+**📅 2022 - Present**  
+B.E. in Computer Science & Engineering (CGPA: 8.08)
+
+### 🏫 Kendriya Vidyalaya No.1 Jalahalli (West)
+**📅 2022**  
+12th Grade - Science (77.6%)
+
+### 🏫 Kendriya Vidyalaya No.1 AFS Bhui
+**📅 2020**  
+10th Grade (81.8%)
+
+
+---
+
 
 ## 📜 Certifications
 
