@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Specialist" alt="Typing SVG" />
 
-**Computer Science Student | Full-Stack Developer | DevOps Enthusiast**
+**Computer Science Student | Full-Stack Developer | DevOps Enthusiast | Data Analyst**
 
 <p align="center">
   📍 Bengaluru, India | 📧 hello.firozkhan@outlook.com
@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student with expertise in **web development, cloud computing, and DevOps**. I love building scalable applications and solving real-world problems with technology. My goal is to contribute to innovative projects while continuously expanding my skill set.
+I'm a passionate Computer Science student with expertise in **Software development, Cloud Computing, DevOps, and Data Analysis**. I enjoy working with data to uncover insights and also love building scalable applications to solve real-world problems. My goal is to contribute to innovative projects while continuously expanding my skill set.
 
 ---
 
