@@ -96,7 +96,7 @@ B.E. in Computer Science & Engineering (CGPA: 8.08)
 **📅 2022**  
 12th Grade - Science (77.6%)
 
-### 🏫 Kendriya Vidyalaya No.1 AFS Bhui
+### 🏫 Kendriya Vidyalaya No.1 AFS Bhuj
 **📅 2020**  
 10th Grade (81.8%)
 
